@@ -33,7 +33,3 @@ Run `terraform plan` to see the configuration it creates when executed.
 
 `terraform apply`
 
-
-```
-Billu is DON
-```
